@@ -34,5 +34,10 @@ This project was built entirely using Microsoft Power BI for data modeling, DAX 
 Skills Demonstrated
 Through this project, the following skills were applied and demonstrated: data cleaning and transformation using Power Query, data modeling and relationship management in Power BI, DAX measure creation for dynamic KPI calculations, interactive dashboard design with slicers and cross-filtering, business insight generation from retail and e-commerce data, and data storytelling through visual hierarchy and layout design.
 
+Show the Project/sreenshot
+Blinkit Dashboard(https://github.com/abbas620/BLINKIT-DASHBOARD/blob/main/blinkit.pbix)
+Screenshot1(https://github.com/abbas620/BLINKIT-DASHBOARD/blob/main/blinkit%20dashboard%20sheet%201.png)
+Screenshot2(https://github.com/abbas620/BLINKIT-DASHBOARD/blob/main/blinkit%20dasboard%20sheet%202.png)
+
 How to Use This Dashboard
 To explore the dashboard, open the .pbix file in Microsoft Power BI Desktop. Use the Filter Panel on the left side to slice the data by Outlet Location, Outlet Size, or Item Type. Click on any chart element to cross-filter the entire dashboard. Switch between the main dashboard tab and the Table tab to view raw transactional data. Hover over any visual to see detailed tooltips with exact values.
